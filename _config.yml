@@ -7,15 +7,15 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'rskumar
+title:            'rskumar'
 tagline:          'Nullpointer Exception Lover'
 description:      ''
-url:              https://rskumar.github.io
+url:              'https://rskumar.github.io'
 baseurl:          /
 
 author:
   name:           'Ravi Kumar'
-  url:            https://rskumar.github.io
+  url:            'https://rskumar.github.io'
 
 paginate:         5
 
